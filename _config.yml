@@ -1,2 +1,3 @@
 name: Punith Gowda
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
